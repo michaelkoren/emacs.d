@@ -1,0 +1,433 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/home/koren/src/hvx_ci/pending/scaled_volumes/rtest/rtest/" . "fillers/")
+ ("/home/koren/src/hvx_ci/pending/scaled_volumes/rtest/" . "rtest/")
+ ("/home/koren/src/hvx_ci/pending/scaled_volumes/" . "rtest/")
+ ("/home/koren/src/hvx_ci/pending/inceptions/inception_stable/rtest/tests/" . "storage/")
+ ("/home/koren/src/hvx_ci/pending/inceptions/inception_stable/rtest/rtest/" . "fillers/")
+ ("/home/koren/src/hvx_ci/pending/inceptions/inception_stable/rtest/" . "rtest/")
+ ("/home/koren/src/hvx_ci/pending/inceptions/inception_stable/" . "rtest/")
+ ("/home/koren/src/hvx_ci/pending/inceptions/inception_ugly_with_cmdline/" . "rtest/")
+ ("/home/koren/src/hvx_ci/pending/inceptions/inception_final/rtest/rtest/setup/guest_utils/" . "services/")
+ ("/home/koren/src/hvx_ci/pending/inceptions/inception_final/rtest/rtest/setup/" . "guest_utils/")
+ ("/home/koren/src/hvx_ci/pending/inceptions/inception_ugly_with_cmdline/rtest/rtest/setup/guest_utils/" . "services/")
+ ("/home/koren/src/hvx_ci/pending/inceptions/inception_ugly_with_cmdline/rtest/rtest/setup/" . "guest_utils/")
+ ("/home/koren/src/hvx_ci/completed/borrow_services/" . "rtest/")
+ ("/home/koren/src/hvx_ci/code_review/hvx-host/rtest/tests/" . "borrows/")
+ ("/home/koren/src/hvx_ci/pending/guest_independant_of_cloud/rtest/" . "rtest/")
+ ("/home/koren/.emacs.d/" . "navigation/")
+ ("/home/koren/src/hvx_ci/pending/guest_independant_of_cloud/rtest/rtest/" . "xml/")
+ ("/home/koren/src/hvx_ci/pending/inceptions/inception_ugly_with_cmdline/rtest/tests/" . "borrows/")
+ ("/home/koren/src/hvx_ci/pending/inceptions/inception_ugly_with_cmdline/rtest/rtest/" . "setup/")
+ ("/home/koren/src/hvx_ci/pending/inceptions/inception_ugly_with_cmdline/rtest/" . "rtest/")
+ ("/home/koren/src/hvx_ci/pending/fix_esxi/" . "rtest/")
+ ("/home/koren/src/hvx_ci/pending/fix_esxi_again/rtest/tests/" . "nested/")
+ ("/home/koren/src/hvx_ci/pending/fix_esxi_again/rtest/" . "rtest/")
+ ("/home/koren/src/hvx_ci/pending/fix_esxi_again/rtest/rtest/setup/guest_utils/" . "services/")
+ ("/home/koren/src/hvx_ci/pending/fix_esxi_again/rtest/rtest/setup/" . "guest_utils/")
+ ("/home/koren/src/hvx_ci/pending/fix_esxi_again/rtest/rtest/" . "utils/")
+ ("/home/koren/src/hvx_ci/pending/fix_esxi/rtest/tests/" . "nested/")
+ ("/home/koren/src/hvx_ci/pending/fix_esxi/rtest/rtest/setup/guest_utils/" . "services/")
+ ("/home/koren/src/borrows/87622143-PINK_Screen_on_ESXi_2_VM_UNBORROWED/" . "guests/")
+ ("/home/koren/src/hvx_ci/completed/borrow_services/rtest/rtest/" . "xml/")
+ ("/home/koren/src/hvx_ci/completed/borrow_services/rtest/" . "rtest/")
+ ("/home/koren/src/hvx_ci/pending/host_whitelist/rtest/rtest/" . "cfg_utils/")
+ ("/home/koren/src/hvx_ci/pending/host_whitelist/rtest/" . "rtest/")
+ ("/home/koren/src/hvx_ci/pending/host_whitelist/" . "rtest/")
+ ("/home/koren/src/hvx_ci/pending/fix_esxi/rtest/rtest/" . "xml/")
+ ("/home/koren/src/hvx_ci/pending/fix_esxi/rtest/" . "tests/")
+ ("/home/koren/src/hvx_ci/code_review/hvx-host/rtest/rtest/setup/guest_utils/" . "services/")
+ ("/home/koren/src/hvx_ci/code_review/hvx-host/rtest/rtest/setup/" . "guest_utils/")
+ ("/home/koren/src/hvx_ci/code_review/hvx-host/rtest/rtest/utils/" . "cache/")
+ ("/home/koren/src/hvx_ci/pending/publish_version/rtest/tests/" . "net/")
+ ("/home/koren/src/hvx_ci/pending/publish_version/rtest/tools/" . "templates/")
+ ("/home/koren/src/hvx_ci/pending/publish_version/rtest/rtest/" . "setup/")
+ ("/home/koren/src/hvx_ci/pending/publish_version/rtest/" . "tests/")
+ ("/home/koren/src/hvx_ci/pending/publish_version/" . "rtest/")
+ ("/home/koren/src/hvx_ci/pending/archive/land/rtest/rtest/cloud/" . "land_infra/")
+ ("/home/koren/src/hvx_ci/pending/archive/land/rtest/rtest/" . "cloud/")
+ ("/home/koren/src/hvx_ci/pending/archive/land/rtest/" . "rtest/")
+ ("/home/koren/src/hvx_ci/pending/archive/land/" . "rtest/")
+ ("/home/koren/src/hvx_ci/pending/archive/" . "land/")
+ ("/home/koren/src/hvx_ci/code_review/hvx-host/rtest/" . "tests/")
+ ("/home/koren/src/hvx_ci/code_review/hvx-host/" . "rtest/")
+ ("/home/koren/src/hvx_ci/completed/bmc/rtest/rtest/" . "etc/")
+ ("/home/koren/src/hvx_ci/completed/bmc/rtest/" . "rtest/")
+ ("/home/koren/src/hvx_ci/completed/bmc/" . "rtest/")
+ ("/home/koren/src/hvx_ci/pending/inceptions/inception_another_attempt/" . "rtest/")
+ ("/home/koren/src/hvx_ci/pending/inceptions/inception_final/rtest/rtest/" . "fillers/")
+ ("/home/koren/src/hvx_ci/pending/inceptions/inception_final/rtest/" . "tools/")
+ ("/home/koren/src/hvx_ci/pending/inceptions/inception_final/" . "rtest/")
+ ("/home/koren/src/hvx_ci/pending/inceptions/" . "inception_stable/")
+ ("/home/koren/src/hvx_ci/pending/borrow_services/rtest/rtest/" . "fillers/")
+ ("/home/koren/src/hvx_ci/pending/borrow_services/rtest/" . "rtest/")
+ ("/home/koren/src/hvx_ci/pending/borrow_services/" . "rtest/")
+ ("/home/koren/src/hvx_ci/pending/inceptions/inception_another_attempt/rtest/rtest/" . "setup/")
+ ("/home/koren/src/hvx_ci/pending/inceptions/inception_another_attempt/rtest/" . "rtest/")
+ ("/home/koren/src/hvx_ci/pending/inception2/rtest/rtest/setup/guest_utils/" . "services/")
+ ("/home/koren/src/hvx_ci/pending/inception2/rtest/rtest/setup/" . "guest_utils/")
+ ("/home/koren/src/hvx_ci/pending/inception2/rtest/rtest/" . "utils/")
+ ("/home/koren/src/hvx_ci/pending/inception2/rtest/tests/" . "deployment/")
+ ("/home/koren/src/hvx_ci/pending/inception2/rtest/" . "tests/")
+ ("/home/koren/src/hvx_ci/pending/inception2/" . "rtest/")
+ ("/home/koren/src/hvx_ci/pending/cpuid/rtest/rtest/setup/" . "guest_utils/")
+ ("/home/koren/src/hvx_ci/pending/cpuid/rtest/rtest/" . "setup/")
+ ("/home/koren/src/hvx_ci/pending/cpuid/rtest/" . "rtest/")
+ ("/home/koren/src/hvx_ci/pending/cpuid/" . "rtest/")
+ ("/home/koren/src/hvx_ci/pending/nested/rtest/rtest/" . "setup/")
+ ("/home/koren/src/hvx_ci/pending/nested/rtest/rtest/setup/guest_utils/" . "services/")
+ ("/home/koren/src/hvx_ci/pending/nested/rtest/rtest/setup/" . "guest_utils/")
+ ("/home/koren/src/hvx_ci/pending/nested/rtest/tests/" . "nested/")
+ ("/home/koren/src/hvx_ci/pending/nested/rtest/" . "rtest/")
+ ("/home/koren/src/hvx_ci/pending/nested/" . "rtest/")
+ ("/home/koren/src/hvx_ci/pending/windows/rtest/rtest/setup/guest_utils/" . "services/")
+ ("/home/koren/src/hvx_ci/pending/windows/rtest/rtest/setup/" . "guest_utils/")
+ ("/home/koren/src/hvx_ci/pending/windows/rtest/tests/" . "windows/")
+ ("/home/koren/src/hvx_ci/completed/rtest_borrow/rtest/rtest/setup/guest_utils/" . "services/")
+ ("/home/koren/src/hvx_ci/completed/rtest_borrow/rtest/rtest/setup/" . "guest_utils/")
+ ("/home/koren/src/hvx_ci/completed/rtest_borrow/rtest/rtest/" . "utils/")
+ ("/home/koren/src/hvx_ci/completed/rtest_borrow/rtest/tools/" . "templates/")
+ ("/home/koren/src/hvx_ci/completed/rtest_borrow/rtest/tests/" . "net/")
+ ("/home/koren/src/hvx_ci/completed/rtest_borrow/rtest/" . "tests/")
+ ("/home/koren/src/hvx_ci/completed/rtest_borrow/" . "rtest/")
+ ("/home/koren/src/hvx_ci/completed/" . "borrow_services/")
+ ("/data/koren/images/win10/" . "oracle/")
+ ("/data/koren/images/" . "win10/")
+ ("/data/koren/" . "images/")
+ ("/data/" . "koren/")
+ ("/" . "data/")
+ ("/home/koren/src/docker-images/" . "core-14.04/")
+ ("/home/koren/src/hvx_ci/pending/windows/rtest/rtest/" . "utils/")
+ ("/home/koren/src/hvx_ci/pending/windows/rtest/" . "rtest/")
+ ("/home/koren/src/hvx_ci/pending/windows/" . "rtest/")
+ ("/home/koren/src/borrows/" . "qa_kvm_app/")
+ ("/home/koren/src/oracle-bmcs-python-sdk/git/bmcs-python-sdk/oraclebmc/" . "core/")
+ ("/home/koren/src/oracle-bmcs-python-sdk/git/bmcs-python-sdk/" . "oraclebmc/")
+ ("/home/koren/src/oracle-bmcs-python-sdk/git/" . "bmcs-python-sdk/")
+ ("/home/koren/src/oracle-bmcs-python-sdk/" . "git/")
+ ("/home/koren/src/hvx_ci/completed/bmc_ng/rtest/rtest/" . "etc/")
+ ("/home/koren/src/hvx_ci/completed/bmc_ng/rtest/" . "rtest/")
+ ("/home/koren/src/hvx_ci/pending/rtest_borrow/rtest/tools/" . "templates/")
+ ("/home/koren/src/hvx_ci/pending/rtest_borrow/rtest/rtest/setup/guest_utils/" . "services/")
+ ("/home/koren/src/hvx_ci/pending/rtest_borrow/rtest/rtest/setup/" . "guest_utils/")
+ ("/home/koren/src/hvx_ci/pending/rtest_borrow/rtest/tests/" . "snapshots/")
+ ("/home/koren/src/hvx_ci/pending/rtest_borrow/rtest/rtest/" . "fillers/")
+ ("/home/koren/src/hvx_ci/pending/rtest_borrow/rtest/" . "tests/")
+ ("/home/koren/src/hvx_ci/pending/rtest_borrow/" . "rtest/")
+ ("/home/koren/src/hvx_ci/pending/inception/rtest/rtest/" . "cloud/")
+ ("/home/koren/src/hvx_ci/pending/inception/rtest/" . "rtest/")
+ ("/home/koren/src/hvx_ci/pending/inception/" . "rtest/")
+ ("/home/koren/src/hvx_ci/pending/" . "inceptions/")
+ ("/home/koren/src/hvx_ci/code_review/hvx-host/rtest/rtest/" . "cfg_utils/")
+ ("/home/koren/src/hvx_ci/rtest_borrow/rtest/rtest/" . "fillers/")
+ ("/home/koren/src/hvx_ci/rtest_borrow/rtest/" . "rtest/")
+ ("/home/koren/src/hvx_ci/rtest_borrow/" . "rtest/")
+ ("/home/koren/src/jenkins-util/" . "hvx-scripts/")
+ ("/home/koren/src/hvx_ci/inception/" . "rtest/")
+ ("/home/koren/src/hvx_ci/inception/rtest/rtest/setup/" . "guest_utils/")
+ ("/home/koren/src/hvx_ci/inception/rtest/rtest/" . "defaults/")
+ ("/home/koren/src/hvx_ci/inception/rtest/tests/" . "net/")
+ ("/home/koren/src/hvx_ci/inception/rtest/" . "rtest/")
+ ("/home/koren/src/hvx-host/capsule/" . "capsule/")
+ ("/home/koren/src/borrows/DB_TEST/" . "sshkeys/")
+ ("/home/koren/src/hvx_ci/scripts/rtest/tests/" . "generations/")
+ ("/home/koren/src/hvx-host/rtest/rtest/setup/guest_utils/" . "services/")
+ ("/home/koren/src/hvx_ci/scripts/rtest/" . "tests/")
+ ("/home/koren/src/hvx_ci/scripts/" . "rtest/")
+ ("/home/koren/src/hvx_ci/nested/rtest/tests/" . "nested/")
+ ("/home/koren/src/hvx_ci/" . "pending/")
+ ("/home/koren/src/hvx_ci/hvx-host/rtest/tests/" . "nested/")
+ ("/home/koren/src/hvx_ci/hvx-host/rtest/rtest/setup/guest_utils/" . "services/")
+ ("/home/koren/src/hvx_ci/hvx-host/rtest/rtest/setup/" . "guest_utils/")
+ ("/home/koren/src/hvx_ci/hvx-host/" . "rtest/")
+ ("/home/koren/src/hvx_ci/nested/" . "rtest/")
+ ("/home/koren/src/hvx_ci/hvx-host/rtest/rtest/" . "cloud/")
+ ("/home/koren/src/hvx_ci/hvx-host/rtest/" . "rtest/")
+ ("/home/koren/src/hvx-host/rtest/rtest/setup/" . "guest_utils/")
+ ("/home/koren/src/hvx-host/rtest/rtest/" . "cfg_utils/")
+ ("/home/koren/src/hvx-host/rtest/tests/" . "nested/")
+ ("/home/koren/src/hvx-host/rtest/" . "rtest/")
+ ("/home/koren/src/hvx-host/" . "rtest/")
+ ("/home/koren/src/" . "hvx-host/")
+ ("/home/koren/src/hvx_ci/nested/rtest/rtest/setup/guest_utils/" . "services/")
+ ("/home/koren/src/hvx_ci/nested/rtest/rtest/setup/" . "guest_utils/")
+ ("/home/koren/src/hvx_ci/nested/rtest/rtest/" . "setup/")
+ ("/home/koren/src/hvx_ci/nested/rtest/" . "rtest/")
+ ("/home/koren/" . ".emacs.d/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/home/koren/src/hvx-host/rtest/rtest/cfg_utils/"
+ "/home/koren/src/hvx-host/rtest/rtest/setup/guest_utils/services/"
+ "/home/koren/src/hvx_ci/code_review/hvx-host/rtest/rtest/cfg_utils/"
+ "/home/koren/src/hvx_ci/code_review/hvx-host/rtest/rtest/setup/guest_utils/services/"
+ "/home/koren/src/hvx_ci/pending/inceptions/inception_stable/rtest/rtest/fillers/"
+ "/home/koren/src/hvx_ci/pending/scaled_volumes/rtest/rtest/fillers/"
+ "/home/koren/src/hvx_ci/pending/inceptions/inception_stable/rtest/tests/storage/"
+ "/home/koren/src/hvx_ci/pending/inceptions/inception_stable/rtest/rtest/defaults/"
+ "/home/koren/src/hvx_ci/pending/inceptions/inception_stable/rtest/rtest/cloud/"
+ "/home/koren/src/hvx_ci/pending/inceptions/inception_stable/rtest/rtest/setup/"
+ "/home/koren/src/hvx_ci/pending/inceptions/inception_final/rtest/rtest/fillers/"
+ "/home/koren/src/hvx_ci/pending/inceptions/inception_final/rtest/rtest/utils/"
+ "/home/koren/src/hvx_ci/pending/inceptions/inception_final/rtest/tools/"
+ "/home/koren/src/hvx_ci/pending/inceptions/inception_final/rtest/rtest/setup/guest_utils/services/"
+ "/home/koren/src/hvx_ci/pending/inceptions/inception_final/rtest/rtest/setup/"
+ "/home/koren/src/hvx_ci/pending/inceptions/inception_ugly_with_cmdline/rtest/rtest/setup/"
+ "/home/koren/src/hvx_ci/pending/inceptions/inception_final/rtest/rtest/xml/"
+ "/home/koren/src/hvx_ci/pending/scaled_volumes/rtest/rtest/utils/"
+ "/home/koren/src/hvx_ci/pending/inceptions/inception_final/rtest/rtest/cloud/"
+ "/home/koren/src/hvx_ci/pending/inceptions/inception_final/.git/"
+ "/home/koren/src/hvx_ci/pending/inceptions/inception_ugly_with_cmdline/rtest/tools/"
+ "/home/koren/src/hvx_ci/pending/inceptions/inception_ugly_with_cmdline/rtest/rtest/etc/"
+ "/home/koren/src/hvx_ci/pending/inceptions/inception_ugly_with_cmdline/rtest/rtest/fillers/"
+ "/home/koren/src/hvx_ci/pending/inceptions/inception_ugly_with_cmdline/rtest/tests/"
+ "/home/koren/src/hvx_ci/pending/inceptions/inception_ugly_with_cmdline/rtest/rtest/setup/guest_utils/services/"
+ "/home/koren/src/hvx_ci/completed/borrow_services/rtest/rtest/xml/"
+ "/home/koren/src/hvx_ci/completed/borrow_services/rtest/tools/"
+ "/home/koren/src/borrows/qa_kvm_app/"
+ "/home/koren/src/hvx_ci/pending/inceptions/inception_ugly_with_cmdline/rtest/rtest/utils/"
+ "/home/koren/src/hvx_ci/code_review/hvx-host/rtest/tests/"
+ "/home/koren/src/hvx_ci/code_review/hvx-host/rtest/rtest/setup/"
+ "/home/koren/src/hvx_ci/code_review/hvx-host/rtest/tests/borrows/"
+ "/home/koren/tmp/"
+ "/home/koren/src/hvx_ci/code_review/hvx-host/rtest/tests/nested/"
+ "/home/koren/src/hvx_ci/code_review/hvx-host/rtest/rtest/utils/"
+ "/home/koren/src/hvx_ci/code_review/hvx-host/rtest/rtest/setup/guest_utils/"
+ "/home/koren/src/hvx_ci/pending/recreate_pysphere/rtest/rtest/setup/guest_utils/"
+ "/home/koren/src/hvx_ci/pending/recreate_pysphere/rtest/rtest/setup/guest_utils/services/"
+ "/home/koren/.emacs.d/"
+ "/home/koren/src/hvx_ci/pending/guest_independant_of_cloud/rtest/rtest/xml/"
+ "/home/koren/src/hvx_ci/pending/guest_independant_of_cloud/rtest/tools/"
+ "/home/koren/src/hvx_ci/pending/guest_independant_of_cloud/rtest/rtest/defaults/"
+ "/home/koren/src/hvx_ci/pending/guest_independant_of_cloud/rtest/rtest/fillers/"
+ "/home/koren/src/hvx_ci/pending/guest_independant_of_cloud/rtest/rtest/env/"
+ "/home/koren/.emacs.d/navigation/"
+ "/home/koren/src/hvx_ci/pending/guest_independant_of_cloud/rtest/rtest/setup/"
+ "/home/koren/src/hvx_ci/pending/guest_independant_of_cloud/rtest/rtest/cfg_utils/"
+ "/home/koren/src/hvx_ci/pending/inceptions/inception_ugly_with_cmdline/rtest/rtest/defaults/"
+ "/home/koren/src/hvx_ci/pending/inceptions/inception_ugly_with_cmdline/rtest/rtest/cloud/"
+ "/home/koren/src/borrows/cisco_asa_v1000_kvm_divide_by_0/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "utils.py"
+ "gdb.py"
+ "host.py"
+ "setup.py"
+ "test_storage_cloud.py"
+ "guests.py"
+ "amazon.py"
+ "google.py"
+ "bare_metal.py"
+ "proxy.py"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/home/koren/src/hvx-host/rtest/rtest/cfg_utils/" (23038 64754 815785 981000) "#utils.py#" "0001-rtest-cfg_utils.utils-Add-append_qemuargs.patch" "utils.py" "__init__.py" "./" "utils.pyc" "__init__.pyc" "0002-rtest-setup.guest_utils.services.gdb-Use-append_qemu.patch" "../")
+
+ ("/home/koren/src/hvx-host/rtest/rtest/setup/guest_utils/services/" (23038 64776 475862 184000) "mstsc.py" "gdb.py" "rpyc.pyc" "mstsc.pyc" "vnc.py" "gdb.pyc" "rpyc.py" "utils.py" "vnc.pyc" ".#gdb.py" "pysphere.pyc" "__init__.py" "./" "utils.pyc" "__init__.pyc" "nested.pyc" "pysphere.py" "nested.py" "../" "qemu.py" "paramiko.pyc" "paramiko.py" "sshfs.py")
+
+ ("/home/koren/src/hvx_ci/pending/inceptions/inception_final/rtest/tools/" (23023 15214 463030 770000) "borrow_utils.py" "build_templates/" "borrow_utils.pyc" "get_host_user_data.py" "__init__.py" "./" "__init__.pyc" "opc_storage.py" "rtest_generator.py" "#borrow_utils2.py#" "../" "templates/" "rtest-upload-image.sh")
+
+ ("/home/koren/src/hvx_ci/pending/inceptions/inception_stable/rtest/rtest/setup/" (23023 19447 577923 433000) "userdata.pyc" "repository.py" "script.py" "client.py" "uts_server_mock.py" "uts.py" "machines_datatypes.pyc" "machines_datatypes.py" "rtb.py" "setup.pyc" "guest_utils/" "script.pyc" "__init__.py" "host.py" "./" "rtest_machines.pyc" "ravello_constants.pyc" "client.pyc" "__init__.pyc" "ravello_constants.py" "publish_parameters.py" "repository.pyc" "uts.pyc" "../" "publish_parameters.pyc" "setup.py" "rtest_machines.py" "rtb.pyc" "host.pyc" "userdata.py")
+
+ ("/home/koren/src/hvx_ci/pending/inceptions/inception_stable/rtest/rtest/cloud/" (23023 29064 95755 622000) "userdata.pyc" "bare_metal.pyc" "oracle.pyc" "proxy.pyc" "google_config.py" "bare_metal.py" "cloud.py" "bare_metal_config.py" "google.py" "__init__.py" "bare_metal_config.pyc" "amazon.py" "./" "google_config.pyc" "oracle_config.pyc" "__init__.pyc" "oracle.py" "amazon_config.py" "oracle_config.py" "instance.pyc" "../" "amazon_config.pyc" "instance.py" "proxy.py" "google.pyc" "clouds.py" "cloud.pyc" "clouds.pyc" "amazon.pyc" "userdata.py")
+
+ ("/home/koren/src/hvx_ci/pending/inceptions/inception_stable/rtest/rtest/defaults/" (23023 19483 214048 805000) "devices.pyc" "__init__.py" "./" "__init__.pyc" "guests.pyc" "devices.py" "../" "macs.pyc" "macs.py" "guests.py" "buckets.pyc" "disks.pyc" "disks.py" "buckets.py")
+
+ ("/home/koren/src/hvx_ci/pending/scaled_volumes/rtest/rtest/fillers/" (23029 55296 819432 99000) "network.pyc" "network.py" "memory.py~" "spec.txt" "rtb.py" "setup.pyc" "utils.py" "__init__.py" "host.py" "./" "utils.pyc" "memory.py" "__init__.pyc" "instance.pyc" "../" "instance.py" "setup.py" "rtb.pyc" "host.pyc")
+
+ ("/home/koren/src/hvx_ci/pending/inceptions/inception_stable/rtest/rtest/fillers/" (23023 19483 310049 143000) "network.pyc" "network.py" "spec.txt" "memory_filler.py" "rtb.py" "setup.pyc" "utils.py" "__init__.py" "host.py" "./" "utils.pyc" "memory.pyc" "memory.py" "__init__.pyc" "instance.pyc" "memory_filler.pyc" "../" "instance.py" "setup.py" "rtb.pyc" "host.pyc")
+
+ ("/home/koren/src/hvx-host/rtest/rtest/setup/guest_utils/" (23031 2131 921519 661000) "esxi.pyc" "sanity.py" "__pycache__/" "browser.pyc" "test_utils.py" "services/" "utils.py" "__init__.py" "./" "utils.pyc" "__init__.pyc" "esxi.py" "../" "sanity.pyc" "browser.py")
+
+ ("/home/koren/src/hvx-host/rtest/rtest/setup/" (23038 64754 815785 981000) "repository.py" "script.py" "client.py" "uts_server_mock.py" "uts.py" "machines_datatypes.py" "rtb.py" "guest_utils/" "__init__.py" "host.py" "./" "#host.py#" "0001-rtest-setup.host._install_host-Install-output-made-n.patch" "ravello_constants.py" "publish_parameters.py" "../" "setup.py" "rtest_machines.py" "userdata.py")
+
+ ("/home/koren/src/hvx-host/rtest/rtest/" (23031 2744 447674 609000) "fillers/" "env/" "defaults/" "cloud/" "__init__.py" "./" "xml/" "datatypes/" "utils/" "etc/" "cfg_utils/" "../" "setup/")
+
+ ("/home/koren/src/hvx-host/rtest/" (23002 19287 731509 160000) "py.test" "rtest/" ".cache/" "0001-rtest-pysphere-If-pysphere-connection-disconnected-r.patch" "./" "pytest.ini" "tests/" "publish_config.xml" "../" "app_runner/" "tools/")
+
+ ("/home/koren/src/hvx-host/" (23020 23067 758966 581000) ".git/" "rtest/" "qemu/" ".gitmodules" "package/" "libhvx/" "./" "net/" "nettrack/" "hvx/" "linux/" "hvx-core/" "../" "build-template.mk" "storage/" ".gitignore" "Makefile" "capsule/" "3rdparty/" "tools/")
+
+ ("/home/koren/src/" (23031 3071 392824 846000) "qemu-with-bridge.py" "docker-images/" "oracle-bmcs-python-sdk.zip" "pypi/" "hvx-host-olds/" "hvx-host-uefi/" "uMgmt/" "gitest/" "host-utils/" "problematic_tests.txt" "hvx-host2/" "./" "hvx_ci/" "hversion/" "belle/" "docker-utils/" "borrows/" "hostops/" "xdist/" "resource-responsibility/" "../" "problematic_tests.txt~" "hvx-host/" "0001-rtest-etc-installhvx.sh-Add-kernel-4.1-hacks.patch~" "oracle-bmcs-python-sdk/" "jenkins-util/" "hvx-unit-test-results/")
+
+ ("/home/koren/src/hvx_ci/code_review/" (22950 48459 280790 965000) "hvx-host2/" "./" "../" "hvx-host/")
+
+ ("/home/koren/src/hvx_ci/code_review/hvx-host/" (23035 498 230029 624000) ".git/" "rtest/" "qemu/" ".gitmodules" "package/" "libhvx/" "./" "net/" "nettrack/" "hvx/" "linux/" "hvx-core/" "../" "build-template.mk" "storage/" ".gitignore" "Makefile" "capsule/" "3rdparty/" "tools/" "h wip -f")
+
+ ("/home/koren/src/hvx_ci/code_review/hvx-host/rtest/" (23016 42808 630160 89000) "py.test" "rtest/" ".cache/" "./" "pytest.ini" "tests/" "publish_config.xml" "../" "app_runner/" "tools/")
+
+ ("/home/koren/src/hvx_ci/code_review/hvx-host/rtest/rtest/cfg_utils/" (23035 552 758221 461000) "utils.py" "__init__.py" "./" "utils.pyc" "__init__.pyc" "../")
+
+ ("/home/koren/src/hvx_ci/code_review/hvx-host/rtest/rtest/setup/guest_utils/services/" (23035 552 782221 545000) "mstsc.py" "gdb.py" "rpyc.pyc" "mstsc.pyc" "vnc.py" "gdb.pyc" "rpyc.py" "utils.py" "vnc.pyc" "pysphere.pyc" "__init__.py" "./" "utils.pyc" "__init__.pyc" "nested.pyc" "qemu.pyc" "pysphere.py" "nested.py" "../" "qemu.py" "paramiko.pyc" "paramiko.py" "sshfs.py")
+
+ ("/home/koren/src/hvx_ci/code_review/hvx-host/rtest/rtest/setup/guest_utils/" (23035 552 806221 630000) "sanity.py" "__pycache__/" "test_utils.py" "filesystems_utils.pyc" "services/" "utils.py" "__init__.py" "./" "utils.pyc" "__init__.pyc" "esxi.py" "../" "sanity.pyc" "browser.py")
+
+ ("/home/koren/src/hvx_ci/code_review/hvx-host/rtest/rtest/setup/" (23035 552 762221 475000) "userdata.pyc" "repository.py" "script.py" "client.py" "uts_server_mock.py" "uts.py" "machines_datatypes.pyc" "machines_datatypes.py" "rtb.py" "setup.pyc" "guest_utils/" "script.pyc" "__init__.py" "host.py" "./" "rtest_machines.pyc" "ravello_constants.pyc" "client.pyc" "__init__.pyc" "ravello_constants.py" "publish_parameters.py" "repository.pyc" "uts.pyc" "../" "publish_parameters.pyc" "setup.py" "rtest_machines.py" "rtb.pyc" "host.pyc" "userdata.py")
+
+ ("/home/koren/src/hvx_ci/pending/inceptions/inception_stable/rtest/tests/" (23023 18732 867408 986000) "logrotate/" "matrix/" "io_bench/" "rtest/" "qemu/" "__pycache__/" "hw_migration/" "windows/" "conftest.pyc" "conftest.py" "snapshots/" "__init__.py" "guest_config/" "./" "net/" "deployment/" "__init__.pyc" "borrows/" "nested/" "../" "storage/" "capsule/" "states/")
+
+ ("/home/koren/src/hvx_ci/pending/inceptions/inception_stable/rtest/tests/storage/" (23023 18931 152106 578000) "__pycache__/" "./" "test_backing_chain.py" "../" "test_guest_read.py" "test_sync.py" "test_buckets.py" "test_prefetch.py" "test_host_volume_types.py" "test_storage_cloud.py")
+
+ ("/home/koren/src/hvx_ci/pending/inceptions/inception_stable/rtest/rtest/" (23023 17437 162850 525000) "fillers/" "env/" "defaults/" "cloud/" "__init__.py" "./" "xml/" "datatypes/" "utils/" "etc/" "__init__.pyc" "cfg_utils/" "../" "setup/")
+
+ ("/home/koren/src/hvx_ci/pending/scaled_volumes/rtest/rtest/" (23020 35472 746608 980000) "fillers/" "env/" "defaults/" "cloud/" "__init__.py" "./" "xml/" "datatypes/" "utils/" "etc/" "__init__.pyc" "cfg_utils/" "../" "setup/")
+
+ ("/home/koren/src/hvx_ci/pending/scaled_volumes/rtest/" (23021 9797 430844 176000) "py.test" "rtest/" ".cache/" "./" "pytest.ini" "tests/" "publish_config.xml" "../" "app_runner/" "tools/")
+
+ ("/home/koren/src/hvx_ci/pending/scaled_volumes/" (23020 35472 750608 994000) ".git/" "rtest/" "qemu/" ".gitmodules" "package/" "libhvx/" "./" "net/" "nettrack/" "hvx/" "linux/" "hvx-core/" "../" "build-template.mk" "storage/" ".gitignore" "Makefile" "capsule/" "3rdparty/" "tools/")
+
+ ("/home/koren/src/hvx_ci/pending/inceptions/inception_stable/rtest/" (23023 15418 951750 189000) "py.test" "rtest/" ".cache/" "./" "pytest.ini" "tests/" "publish_config.xml" "../" "app_runner/" "tools/")
+
+ ("/home/koren/src/hvx_ci/pending/inceptions/inception_stable/" (23023 15418 951750 189000) ".git/" "rtest/" "qemu/" ".gitmodules" "package/" "libhvx/" "./" "net/" "nettrack/" "hvx/" "linux/" "hvx-core/" "../" "build-template.mk" "storage/" ".gitignore" "Makefile" "capsule/" "3rdparty/" "tools/")
+
+ ("/home/koren/src/hvx_ci/pending/inceptions/" (23023 15418 855749 851000) "inception_ng/" "inception_another_attempt/" "inception_with_vol_beh/" "inception_idan/" "inception_final/" "./" "inception_ugly_with_cmdline/" "../" "inception_orig/" "inception_stable/")
+
+ ("/home/koren/src/hvx_ci/pending/inceptions/inception_final/rtest/rtest/fillers/" (23023 16141 786293 217000) "network.pyc" "network.py" "memory_filler.py~" "spec.txt" "memory_filler.py" "rtb.py" "setup.pyc" "utils.py" "__init__.py" "host.py" "./" "utils.pyc" "memory.pyc" "memory.py" "__init__.pyc" "instance.pyc" "memory_filler.pyc" "../" "instance.py" "setup.py" "rtb.pyc" "host.pyc")
+
+ ("/home/koren/src/hvx_ci/pending/inceptions/inception_final/rtest/rtest/utils/" (23023 15349 255504 988000) "s3.py" "math.py" "math.pyc" "pcap.py" "rtest_logger.py" "etc.pyc" "waiter.py" "constants.pyc" "plumbugs.py" "prefetch.py" "plumbugs.pyc" "rand.py" "asyncio.pyc" "sniffer.pyc" "ssh.pyc" "rand.pyc" "s3.pyc" "__init__.py" "./" "waiter.pyc" "tcpping.py" "diff.py" "freeze.pyc" "cache/" "rtest_logger.pyc" "tcpping.pyc" "constants.py" "__init__.pyc" "diff.pyc" "sleep.py" "sleep.pyc" "machines.pyc" "asyncio.py" "../" "prefetch.pyc" "pcap.pyc" "saved.pyc" "machines.py" "ssh.py" "saved.py" "func.pyc" "cache.pyc" "func.py" "freeze.py" "etc.py")
+
+ ("/home/koren/src/hvx_ci/pending/inceptions/inception_final/rtest/rtest/cloud/" (23023 15349 251504 974000) "userdata.pyc" "bare_metal.pyc" "oracle.pyc" "proxy.pyc" "google_config.py" "bare_metal.py" "cloud.py" "bare_metal_config.py" "google.py" "__init__.py" "bare_metal_config.pyc" "amazon.py" "./" "google_config.pyc" "oracle_config.pyc" "__init__.pyc" "oracle.py" "amazon_config.py" "oracle_config.py" "instance.pyc" "../" "amazon_config.pyc" "instance.py" "proxy.py" "google.pyc" "clouds.py" "cloud.pyc" "clouds.pyc" "amazon.pyc" "userdata.py")
+
+ ("/home/koren/src/hvx_ci/pending/inceptions/inception_final/rtest/rtest/setup/" (23023 15188 586939 735000) "userdata.pyc" "repository.py" "script.py" "client.py" "uts_server_mock.py" "uts.py" "machines_datatypes.pyc" "machines_datatypes.py" "rtb.py" "setup.pyc" "guest_utils/" "script.pyc" "__init__.py" "host.py" "./" "rtest_machines.pyc" "ravello_constants.pyc" "client.pyc" "__init__.pyc" "ravello_constants.py" "publish_parameters.py" "repository.pyc" "uts.pyc" "../" "publish_parameters.pyc" "setup.py" "rtest_machines.py" "rtb.pyc" "host.pyc" "userdata.py")
+
+ ("/home/koren/src/hvx_ci/pending/inceptions/inception_final/rtest/rtest/setup/guest_utils/" (23021 51336 776985 128000) "esxi.pyc" "sanity.py" "__pycache__/" "browser.pyc" "test_utils.py" "services/" "utils.py" "__init__.py" "./" "utils.pyc" "__init__.pyc" "esxi.py" "../" "sanity.pyc" "browser.py")
+
+ ("/home/koren/src/hvx_ci/pending/inceptions/inception_final/rtest/tests/" (23021 61073 43238 610000) "logrotate/" "matrix/" "io_bench/" "rtest/" "qemu/" "__pycache__/" "hw_migration/" "windows/" "conftest.pyc" "conftest.py" "snapshots/" "__init__.py" "guest_config/" "./" "net/" "deployment/" "__init__.pyc" "borrows/" "nested/" "../" "storage/" "capsule/" "states/")
+
+ ("/home/koren/src/hvx_ci/pending/inceptions/inception_final/rtest/tests/windows/" (23013 15179 601264 354000) "activation_resource.py" "__pycache__/" "test_windows_browser.py" "./" "test_activation.py" "test_windows.py" "../" "activation_resource.pyc")
+
+ ("/home/koren/src/hvx_ci/pending/inceptions/inception_ugly_with_cmdline/" (22992 61189 661281 963000) ".git/" "rtest/" "qemu/" ".gitmodules" "package/" "libhvx/" "./" "net/" "nettrack/" "hvx/" "linux/" "hvx-core/" "../" "build-template.mk" "storage/" ".gitignore" "Makefile" "capsule/" "3rdparty/" "tools/")
+
+ ("/home/koren/src/hvx_ci/pending/inceptions/inception_final/rtest/rtest/xml/" (23021 51358 141060 290000) "guest.py" "guest.pyc" "utils.py" "__init__.py" "host.py" "./" "utils.pyc" "app.py" "app.pyc" "__init__.pyc" "../" "host.pyc")
+
+ ("/opt/ravello/" (22564 34662 467940 644000) "./" "qemu-2.2/" "../")
+
+ ("/home/koren/src/hvx_ci/pending/scaled_volumes/rtest/rtest/utils/" (23021 50927 903546 657000) "s3.py" "math.py" "math.pyc" "pcap.py" "rtest_logger.py" "etc.pyc" "waiter.py" "constants.pyc" "plumbugs.py" "prefetch.py" "plumbugs.pyc" "rand.py" "asyncio.pyc" "sniffer.pyc" "ssh.pyc" "rand.pyc" "s3.pyc" "__init__.py" "./" "waiter.pyc" "tcpping.py" "diff.py" "freeze.pyc" "cache/" "rtest_logger.pyc" "tcpping.pyc" "constants.py" "__init__.pyc" "diff.pyc" "sleep.py" "sleep.pyc" "machines.pyc" "asyncio.py" "../" "prefetch.pyc" "pcap.pyc" "saved.pyc" "machines.py" "ssh.py" "saved.py" "func.pyc" "cache.pyc" "func.py" "freeze.py" "etc.py")
+
+ ("/home/koren/src/hvx_ci/pending/inceptions/inception_final/rtest/rtest/setup/guest_utils/services/" (23013 15178 997262 230000) "mstsc.py" "gdb.py" "rpyc.pyc" "mstsc.pyc" "vnc.py" "gdb.pyc" "rpyc.py" "utils.py" "vnc.pyc" "pysphere.pyc" "__init__.py" "./" "utils.pyc" "__init__.pyc" "nested.pyc" "pysphere.py" "nested.py" "../" "qemu.py" "paramiko.pyc" "paramiko.py" "sshfs.py")
+
+ ("/home/koren/src/hvx_ci/pending/inceptions/inception_final/.git/" (23021 47029 837832 743000) "description" "gitk.cache" "ORIG_HEAD" "objects/" "index" "COMMIT_EDITMSG~" "config" "logs/" "./" "refs/" "branches/" "HEAD" "FETCH_HEAD" "../" "packed-refs" "hooks/" "COMMIT_EDITMSG" "info/")
+
+ ("/home/koren/src/hvx_ci/pending/inceptions/inception_final/" (23021 11727 685635 69000) ".git/" "rtest/" "qemu/" ".gitmodules" "package/" "libhvx/" "./" "net/" "nettrack/" "hvx/" "linux/" "hvx-core/" "../" "build-template.mk" "storage/" ".gitignore" "Makefile" "capsule/" "3rdparty/" "tools/")
+
+ ("/home/koren/src/hvx_ci/pending/" (23020 35472 710608 853000) "eyal/" "rtest_termination/" "unit-testing/" "eyal_cpu/" "archive/" "host_whitelist/" "inceptions/" "fix_esxi/" "./" "features/" "guest_independant_of_cloud/" "scaled_volumes/" "nested/" "generic/" "../" "publish_version/")
+
+ ("/home/koren/src/hvx_ci/pending/inceptions/inception_ugly_with_cmdline/rtest/tools/" (23020 49090 434517 820000) "borrow_utils.py" "build_templates/" "borrow_utils.pyc" "get_host_user_data.py" "__init__.py" "./" "__init__.pyc" "opc_storage.py" "rtest_generator.py" "../" "templates/" "rtest-upload-image.sh")
+
+ ("/home/koren/src/hvx_ci/pending/inceptions/inception_ugly_with_cmdline/rtest/rtest/setup/" (23020 49071 538451 341000) "userdata.pyc" "repository.py" "script.py" "client.py" "uts_server_mock.py" "0001-rtest-setup.host-Add-_check_base_template.patch" "uts.py" "machines_datatypes.pyc" "machines_datatypes.py" "rtb.py" "setup.pyc" "guest_utils/" "script.pyc" "__init__.py" "host.py" "./" "rtest_machines.pyc" "ravello_constants.pyc" "client.pyc" "__init__.pyc" "ravello_constants.py" "publish_parameters.py" "repository.pyc" "uts.pyc" "../" "publish_parameters.pyc" "setup.py" "rtest_machines.py" "rtb.pyc" "host.pyc" "userdata.py")
+
+ ("/home/koren/src/hvx_ci/pending/inceptions/inception_ugly_with_cmdline/rtest/rtest/etc/" (22992 61189 829282 553000) "sshkey.pub" "sshkey" "./" "installhvx.sh" "bmcs_api_key.pem" "hvx.crt" "amazon.json" "README" "bare_metal.json" "../" "rtb.sh" "ca.crt" "hvx.key" "google-core.p12")
+
+ ("/home/koren/src/hvx_ci/pending/inceptions/inception_final/rtest/rtest/" (22928 36225 205333 571000) "fillers/" "env/" "defaults/" "cloud/" "__init__.py" "./" "xml/" "datatypes/" "utils/" "etc/" "__init__.pyc" "cfg_utils/" "../" "setup/")
+
+ ("/home/koren/src/hvx_ci/pending/inceptions/inception_final/rtest/" (23011 32789 438089 353000) "py.test" "rtest/" ".cache/" "./" "pytest.ini" "tests/" "publish_config.xml" "../" "app_runner/" "tools/")
+
+ ("/home/koren/src/hvx_ci/pending/inceptions/inception_final/rtest/tests/borrows/" (22995 40017 354488 97000) "__pycache__/" "./" "test_borrow.py" "test_production.py" "../")
+
+ ("/home/koren/src/hvx_ci/code_review/hvx-host/rtest/tests/" (23013 65005 436558 280000) "logrotate/" "matrix/" "io_bench/" "rtest/" "qemu/" "__pycache__/" "hw_migration/" "windows/" "#conftest.py#" "conftest.pyc" "conftest.py" "snapshots/" "__init__.py" "guest_config/" "./" "net/" "deployment/" "__init__.pyc" "borrows/" "nested/" "../" "storage/" "capsule/" "states/")
+
+ ("/home/koren/src/hvx_ci/pending/inceptions/inception_ugly_with_cmdline/rtest/tests/" (23013 59584 985488 411000) "logrotate/" "matrix/" "io_bench/" "rtest/" "qemu/" "__pycache__/" "hw_migration/" "windows/" "conftest.pyc" "conftest.py" "snapshots/" "__init__.py" "guest_config/" "./" "net/" "deployment/" "__init__.pyc" "borrows/" "nested/" "../" "storage/" "capsule/" "states/")
+
+ ("/home/koren/src/hvx_ci/pending/inceptions/inception_ugly_with_cmdline/rtest/rtest/setup/guest_utils/services/" (22989 6094 699757 420000) "mstsc.py" "gdb.py" "rpyc.pyc" "mstsc.pyc" "vnc.py" "gdb.pyc" "rpyc.py" "utils.py" "vnc.pyc" "pysphere.pyc" "__init__.py" "./" "utils.pyc" "__init__.pyc" "nested.pyc" "qemu.pyc" "pysphere.py" "nested.py" "../" "qemu.py" "paramiko.pyc" "paramiko.py" "sshfs.py")
+
+ ("/home/koren/src/hvx_ci/pending/inceptions/inception_ugly_with_cmdline/rtest/rtest/setup/guest_utils/" (22992 61213 341365 273000) "esxi.pyc" "sanity.py" "__pycache__/" "browser.pyc" "test_utils.py" "filesystems_utils.pyc" "services/" "utils.py" "filesystems_utils.py" "__init__.py" "./" "utils.pyc" "access_list.py" "__init__.pyc" "esxi.py" "../" "sanity.pyc" "browser.py")
+
+ ("/home/koren/src/hvx_ci/completed/borrow_services/rtest/rtest/xml/" (22996 59515 129648 244000) "guest.py" "guest.pyc" "utils.py" "__init__.py" "host.py" "./" "utils.pyc" "app.py" "app.pyc" "__init__.pyc" "../" "host.pyc")
+
+ ("/home/koren/src/hvx_ci/completed/borrow_services/rtest/tools/" (22996 59515 141648 287000) "borrow_utils.py" "build_templates/" "borrow_utils.pyc" "get_host_user_data.py" "__init__.py" "./" "__init__.pyc" "opc_storage.py" "rtest_generator.py" "../" "templates/" "rtest-upload-image.sh")
+
+ ("/home/koren/src/hvx_ci/completed/borrow_services/" (22992 59994 629077 680000) ".git/" "rtest/" "qemu/" ".gitmodules" "package/" "libhvx/" "./" "net/" "nettrack/" "hvx/" "linux/" "hvx-core/" "../" "build-template.mk" "storage/" ".gitignore" "Makefile" "capsule/" "3rdparty/" "tools/")
+
+ ("/home/koren/src/hvx_ci/completed/" (23011 32942 322627 221000) "meta_userdata/" "overcommit/" "archive/" "windows/" "instance_name_suffix/" "borrow_services/" "./" "esxi_local_pysphere/" "rtest_borrow/" "bmc/" "../" "recreate_pysphere/" "file_cache/")
+
+ ("/home/koren/" (23013 13253 126486 760000) "screen" ".s3cfg_test_bad~" "eyal/" ".ido.last" "qemu-with-bridge.py" ".bashrc~" ".vimrc" "hvx-host-liran/" "0001-aaabaaa.patch" "bin/" ".s3cfg_mgmt" ".emacs.d/" ".python_history" ".pki/" ".docker/" ".s3cfg-core" ".local/" ".cache/" ".gconf/" "sample/" ".byobu/" ".bashrc.backup" ".bashrc" ".oraclebmc/" ".bash_logout" "Desktop/" "tmp.qA0kIrQP0j/" ".boto" "koren" ".mozilla/" "env.sh~" "nohup.out" ".gitconfig~" "env.sh" "./" ".lesshst" ".gsutil/" ".hostutils.cfg" ".pip/" "src/" ".gnome/" ".bash_history" "tmp/" ".s3cfg" "nocloud.iso" ".profile" "rtest_HOST_WHITELIST_OLD/" ".ssh/" ".s3cfg_backup" ".Xauthority" ".xmlcopyeditor" ".gitconfig.orig" ".dbus/" "Downloads/" "../" ".config/" ".viminfz.tmp" ".ido.last~" ".gnupg/" ".s3cfg_test_bad" ".gitconfig" "images/" ".viminfo" ".s3cfg-prod" ".kde/" "core" ".vim/" ".bash_profile")
+
+ ("/home/koren/src/borrows/qa_kvm_app/" (23006 5079 391779 835000) "original_one.cfg" "app.xml" "guests/" "guests.cfg" "./" "one.cfg" "sshkeys/" "../")
+
+ ("/home/koren/src/borrows/" (23006 5079 383779 807000) "simspace_freeze/" "uefi-v0.5-simple-ubuntu-79888504/" "liran_jira/" "windows_stuck_kvm/" "esx6_kvm/" "87427239-win32-fail-to-boot/" "how_to_borrow.txt~" "nmi_hang86180007/" "87622143-PINK_Screen_on_ESXi_2_VM/" "86051015-babo-4vms-fail-to-boot/" "Herzel_win_2008/" "cisco_asa_v1000_kvm_divide_by_0/" "babu_for_bm_inception_86119386/" "how_to_borrow.txt" "SEP_bluecoat/" "VIRTTEST/" "ATD/" "Activation_Test/" "hvx_bug3/" "qa_kvm_app/" "Omc-server/" "borrow_with_public_ip/" "nightly-pool-19/" "./" "babu_4VMs_new_86119386/" "73010403_cpuid_simple_test/" "windows_vms_not_booting_86381469/" "hvx_bug2/" "sgesx/" "basic_borrow_ubuntu/" "ip_filtering/" "opfor-00/" "varmor-2/" "86049644-babo-stuck-on-boot/" "PvScsiTest/" "87622143-PINK_Screen_on_ESXi_2_VM_UNBORROWED/" "../" "for-michal-77696290/" "uefi-v0.20-simple-app-79988663/" "itsik_windows_kvm/" "Win10A/" "dxls/" "DB_TEST/" "84837024-ESX6/" "symantec_bsod/")
+
+ ("/home/koren/src/hvx_ci/pending/inceptions/inception_ugly_with_cmdline/rtest/rtest/fillers/" (23012 48668 96516 964000) "network.pyc" "network.py" "spec.txt" "rtb.py" "setup.pyc" "utils.py" "__init__.py" "host.py" "./" "utils.pyc" "__init__.pyc" "instance.pyc" "../" "instance.py" "setup.py" "volumes_behavior.patch" "rtb.pyc" "host.pyc")
+
+ ("/home/koren/src/hvx_ci/code_review/hvx-host/rtest/rtest/" (23004 49431 774688 672000) "fillers/" "env/" "defaults/" "cloud/" "__init__.py" "./" "xml/" "datatypes/" "utils/" "etc/" "__init__.pyc" "cfg_utils/" "../" "setup/")
+
+ ("/home/koren/src/hvx_ci/code_review/hvx-host/rtest/tests/borrows/" (23006 5533 173376 299000) "babu.key" "__pycache__/" "86051015-babo-4vms-fail-to-boot/" "./" "test_borrow.py" "current/" "test_production.py" "../")
+
+ ("/home/koren/tmp/" (22977 438 13083 921000) "emacs-src/" "bmc_ng/" "patches/" "emacs24-lucid_24.4+1-4.1~bpo70+1_i386.deb" "./" "bla/" "../" "hvx-host/")
+
+ ("/home/koren/src/hvx_ci/code_review/hvx-host2/" (23011 23625 557849 602000) ".git/" "rtest/" "qemu/" ".gitmodules" "package/" "libhvx/" "./" "net/" "nettrack/" "hvx/" "linux/" "hvx-core/" "../" "build-template.mk" "storage/" ".gitignore" "Makefile" "capsule/" "3rdparty/" "tools/")
+
+ ("/home/koren/src/hvx_ci/code_review/hvx-host/rtest/tests/nested/" (23004 48311 786748 406000) "rmap_chain.log" "vmx_IO_bitmap.log" "vmx_int3.log" "vmx_controls.log" "vmx_preemption_timer.log" "vmx_VPID.log" "vmx_PML.log" "smap.log" "vmx_test_vmcs_lifecycle.log" "vmx_ept_access_test_read_only.log" "apic-split.log" "vmx_ept_access_test_paddr_read_execute_ad_enabled.log" "idt_test.log" "vmx_CR_shadowing.log" "vmexit_tscdeadline.log" "vmx_ept_access_test_paddr_read_write.log" "hyperv_connections.log" "vmx_instruction_intercept.log" "vmx_ept_access_test_paddr_read_only_ad_enabled.log" "vmexit_ple_round_robin.log" "sieve.log" "pku.log" "svm.log" "realmode.log" "vmx_ept_access_test_read_write.log" "vmexit_tscdeadline_immed.log" "BLA.tar.gz" "vmx_control_field_EFER.log" "vmx_ept_access_test_paddr_not_present_page_fault.log" "vmexit_mov_from_cr8.log" "vmx.log" "vmx_ept_access_test_not_present.log" "apic.log" "vmx_test_vmwrite_vmread.log" "hyperv_stimer.log" "kvmclock_test.log" "hyperv_clock.log" "tsc_adjust.log" "vmx_ept_access_test_execute_only.log" "vmexit_vmcall.log" "ioapic.log" "vmx_MSR_switch.log" "vmx_v2.log" "vmexit_ipi.log" "vmx_test_vmxon.log" "./" "tsc.log" "vmx_into.log" "vmx_ept_access_test_ignored_bits.log" "vmx_debug_controls.log" "vmx_EPT_AD_enabled.log" "test_esxi.py" "google.guest.kvm_unit_tests_logs.tar.gz" "vmx_test_vmptrld.log" "emulator.log" "bare_metal_BM.guest.kvm_unit_tests_logs.tar.gz" "vmx_null.log" "vmx_ept_access_test_reserved_bits.log" "amazon.guest.kvm_unit_tests_logs.tar.gz" "vmx_control_field_PAT.log" "smptest.log" "vmx_EPT_AD_disabled.log" "ioapic-split.log" "run_kvm_unit_tests.sh" "msr.log" "vmx_vmmcall.log" "vmx_ept_access_test_paddr_not_present_ad_disabled.log" "vmx_test_vmptrst.log" "vmx_exit_monitor_from_l2_test.log" "s3.log" "hypercall.log" "vmx_ept_access_test_paddr_read_execute_ad_disabled.log" "vmx_ept_access_test_paddr_read_only_ad_disabled.log" "intel_iommu.log" "pcid.log" "../" "vmexit_inl_pmtimer.log" "hyperv_synic.log" "vmx_vmentry_movss_shadow_test.log" "debug.log" "vmx_ept_access_test_paddr_read_write_execute.log" "eventinj.log" "bare_metal_BM.host.kvm_unit_tests_logs.tar.gz" "vmx_disable_RDTSCP.log" "smptest3.log" "vmx_test_vmx_caps.log" "vmx_interrupt.log" "vmx_ept_access_test_write_execute.log" "bare_metal_VM.host.kvm_unit_tests_logs.tar.gz" "vmx_invvpid.log" "vmx_vmenter.log" "vmexit_ipi_halt.log" "access.log" "vmx_ept_access_test_read_execute.log" "port80.log" "vmx_ept_access_test_paddr_not_present_ad_enabled.log" "vmx_ept_access_test_read_write_execute.log" "vmexit_cpuid.log" "vmx_test_vmcs_high.log" "vmexit_mov_to_cr8.log" "syscall.log" "vmx_ept_access_test_force_2m_page.log" "SUMMARY" "esxi_resources.py" "xsave.log" "vmx_test_vmx_feature_control.log" "vmx_ept_access_test_write_only.log" "vmx_test_vmclear.log" "test_kvm_unit_tests.py")
+
+ ("/home/koren/src/hvx_ci/code_review/hvx-host/rtest/rtest/utils/" (23004 43428 749569 230000) "s3.py" "math.py" "math.pyc" "pcap.py" "rtest_logger.py" "etc.pyc" "waiter.py" "constants.pyc" "plumbugs.py" "prefetch.py" "plumbugs.pyc" "rand.py" "asyncio.pyc" "ssh.pyc" "rand.pyc" "s3.pyc" "__init__.py" "./" "waiter.pyc" "tcpping.py" "diff.py" "freeze.pyc" "cache/" "rtest_logger.pyc" "tcpping.pyc" "constants.py" ".#machines.py" "__init__.pyc" "diff.pyc" "sleep.py" "sleep.pyc" "machines.pyc" "asyncio.py" "../" "saved.pyc" "machines.py" "#machines.py#" "ssh.py" "saved.py" "func.pyc" "cache.pyc" "func.py" "freeze.py" "etc.py")
+
+ ("/home/koren/src/hvx_ci/pending/recreate_pysphere/rtest/rtest/setup/guest_utils/" (23003 30471 217418 530000) "esxi.pyc" "sanity.py" "__pycache__/" "browser.pyc" "test_utils.py" "services/" "utils.py" "__init__.py" "./" "utils.pyc" "__init__.pyc" "esxi.py" "../" "sanity.pyc" "browser.py")
+
+ ("/home/koren/src/hvx_ci/pending/recreate_pysphere/rtest/rtest/setup/guest_utils/services/" (23003 57541 744656 250000) "mstsc.py" "gdb.py" "rpyc.pyc" "mstsc.pyc" "vnc.py" "gdb.pyc" "rpyc.py" "utils.py" "vnc.pyc" "pysphere.pyc" "__init__.py" "./" "utils.pyc" "__init__.pyc" "nested.pyc" "pysphere.py" "nested.py" "../" "qemu.py" "paramiko.pyc" "paramiko.py" "sshfs.py")
+
+ ("/home/koren/.emacs.d/" (22997 9922 33737 504000) "auto-save-list/" "extra-hotkeys.el" "emacs-w32.exe.stackdump" "abbrev_defs" "development/" "shell/" "user-macros.el" ".#init.el.1" ".dropbox" "macros/" "ac-comphist (Mugen-Maxima's conflicted copy 2015-03-21).dat" "editing/" "package.el" "init.el" "%backup%~" ".#init.el.2" "network-security.data" "original/" "package.el~" "url/" "./" "my_emacs_ical" "ido.last" "session.107a979249000140224999400000024860031" "server/" "display/" "desktop.ini" "packages-manager.el" "elpa/" ".#init.el.0" "navigation/" "ac-comphist.dat" "virtualenv_dir/" "ac-comphist (MIKI_NG's conflicted copy 2014-07-27).dat" "../" "ido.last~" "extra-hotkeys.el~" "ac-comphist (MIKI-NG's conflicted copy 2014-06-25).dat" ".#init.el" "init.el~" "xkcd/" "w32-meta.el" "documentation/" "site-lisp/" "tramp" "Saving Emacs Sessions - GNU Emacs Manual.URL")
+
+ ("/home/koren/src/hvx_ci/pending/guest_independant_of_cloud/rtest/rtest/xml/" (22984 54785 422235 983000) "guest.py" "guest.pyc" "utils.py" "__init__.py" "host.py" "./" "utils.pyc" "app.py" "app.pyc" "__init__.pyc" "../" "host.pyc")
+
+ ("/home/koren/src/hvx_ci/pending/guest_independant_of_cloud/rtest/tools/" (22984 54785 414235 955000) "borrow_utils.py" "build_templates/" "borrow_utils.pyc" "get_host_user_data.py" "__init__.py" "./" "__init__.pyc" "opc_storage.py" "rtest_generator.py" "../" "templates/" "rtest-upload-image.sh")
+
+ ("/home/koren/src/hvx_ci/pending/guest_independant_of_cloud/rtest/" (22984 54785 422235 983000) "py.test" "rtest/" ".cache/" "./" "pytest.ini" "tests/" "../" "app_runner/" "tools/")
+
+ ("/home/koren/src/hvx_ci/pending/guest_independant_of_cloud/rtest/rtest/cfg_utils/" (22995 59419 410747 116000) "utils.py" "__init__.py" "./" "utils.pyc" "__init__.pyc" "../")
+
+ ("/home/koren/src/hvx_ci/pending/guest_independant_of_cloud/rtest/rtest/fillers/" (22995 59150 525801 143000) "network.pyc" "network.py" "0001-rtest-fillers.instance-Fix-typo-recommended_overcomm.patch" "spec.txt" "rtb.py" "setup.pyc" "utils.py" "__init__.py" "host.py" "./" "utils.pyc" "__init__.pyc" "instance.pyc" "../" "instance.py" "setup.py" "rtb.pyc" "host.pyc")
+
+ ("/home/koren/src/hvx_ci/pending/guest_independant_of_cloud/rtest/rtest/defaults/" (22995 58239 778597 12000) "__init__.py" "./" "__init__.pyc" "guests.pyc" "devices.py" "../" "macs.pyc" "macs.py" "guests.py" "buckets.pyc" "disks.pyc" "disks.py" "buckets.py")
+
+ ("/home/koren/src/hvx_ci/pending/guest_independant_of_cloud/rtest/rtest/env/" (22995 42284 290463 480000) "definitions.py" "parameters.pyc" "__init__.py" "./" "parameters.py" "types.pyc" "__init__.pyc" "definitions.pyc" "../" "types.py")
+
+ ("/home/koren/.emacs.d/navigation/" (22995 56869 901777 604000) "_init.el" "_tabbar._el_" "find_file.py~" "tabbar.el" "buffer-rotate.el" "find_file.py" "speedbar-ext.el" "place-marker.el" "_init.el~" "buffer-rotate.el~" "./" "../" "_tabbar._el_~" "find-file.el" "tabbar.el~")
+
+ ("/home/koren/src/hvx_ci/pending/guest_independant_of_cloud/rtest/rtest/setup/" (22995 41613 468103 438000) "userdata.pyc" "repository.py" "script.py" "client.py" "uts_server_mock.py" "uts.py" "machines_datatypes.pyc" "machines_datatypes.py" "rtb.py" "setup.pyc" "guest_utils/" "script.pyc" "__init__.py" "host.py" "./" "#host.py#" "rtest_machines.pyc" "ravello_constants.pyc" "client.pyc" "__init__.pyc" "ravello_constants.py" "publish_parameters.py" "repository.pyc" "uts.pyc" "../" "publish_parameters.pyc" "setup.py" "rtest_machines.py" "rtb.pyc" "host.pyc" "userdata.py")
+
+ ("/home/koren/src/hvx_ci/pending/guest_independant_of_cloud/rtest/rtest/" (22995 41741 860555 139000) "fillers/" "env/" "defaults/" "cloud/" "__init__.py" "./" "xml/" "datatypes/" "utils/" "etc/" "__init__.pyc" "cfg_utils/" "../" "setup/")
+
+ ("/home/koren/src/hvx_ci/pending/inceptions/inception_ugly_with_cmdline/rtest/rtest/utils/" (22992 61212 389361 923000) "s3.py" "math.py" "math.pyc" "pcap.py" "rtest_logger.py" "etc.pyc" "waiter.py" "constants.pyc" "plumbugs.py" "prefetch.py" "plumbugs.pyc" "rand.py" "asyncio.pyc" "sniffer.pyc" "ssh.pyc" "rand.pyc" "s3.pyc" "__init__.py" "./" "waiter.pyc" "tcpping.py" "diff.py" "freeze.pyc" "cache/" "rtest_logger.pyc" "tcpping.pyc" "constants.py" "__init__.pyc" "diff.pyc" "sleep.py" "sleep.pyc" "machines.pyc" "asyncio.py" "../" "prefetch.pyc" "pcap.pyc" "saved.pyc" "machines.py" "ssh.py" "saved.py" "func.pyc" "cache.pyc" "func.py" "freeze.py" "etc.py")
+
+ ("/home/koren/src/hvx_ci/pending/inceptions/inception_ugly_with_cmdline/rtest/rtest/defaults/" (22989 6094 647757 236000) "devices.pyc" "__init__.py" "./" "__init__.pyc" "guests.pyc" "devices.py" "../" "macs.pyc" "macs.py" "guests.py" "buckets.pyc" "disks.pyc" "disks.py" "buckets.py")
+
+ ("/home/koren/src/hvx_ci/pending/inceptions/inception_ugly_with_cmdline/rtest/tests/borrows/" (22993 17455 661984 305000) "babu.key" "__pycache__/" "86051015-babo-4vms-fail-to-boot/" "./" "test_borrow.py" "test_production.py" "bla.pyc" "../")
+
+ ("/home/koren/src/hvx_ci/pending/inceptions/inception_ugly_with_cmdline/rtest/rtest/cloud/" (22992 57134 327014 756000) "userdata.pyc" "proxy.py~" "bare_metal.pyc" "oracle.pyc" "google_config.py" "bare_metal.py" "cloud.py" "bare_metal_config.py" "google.py" "__init__.py" "bare_metal_config.pyc" "amazon.py" "./" "google_config.pyc" "oracle_config.pyc" "__init__.pyc" "oracle.py" "amazon_config.py" "oracle_config.py" "instance.pyc" "../" "amazon_config.pyc" "instance.py" "proxy.py" "google.pyc" "clouds.py" "cloud.pyc" "clouds.pyc" "amazon.pyc" "userdata.py")
+
+ ("/home/koren/src/borrows/cisco_asa_v1000_kvm_divide_by_0/" (22987 50612 123246 892000) "app.xml" "guests/" "guests.cfg" "./" "one.cfg" "sshkeys/" "../")
+
+ ("/home/koren/src/hvx_ci/pending/inceptions/inception_ugly_with_cmdline/rtest/rtest/cfg_utils/" (22989 5779 314647 853000) "utils.py" "__init__.py" "./" "utils.pyc" "__init__.pyc" "../")
+
+ ("/home/koren/src/hvx_ci/pending/inceptions/inception_ugly_with_cmdline/rtest/rtest/" (22987 50330 858257 363000) "fillers/" "env/" "defaults/" "cloud/" "__init__.py" "./" "xml/" "datatypes/" "utils/" "etc/" "__init__.pyc" "cfg_utils/" "../" "setup/")
+
+ ("/home/koren/src/hvx_ci/pending/inceptions/inception_ugly_with_cmdline/rtest/" (22986 27224 358401 243000) "py.test" "rtest/" ".cache/" "./" "pytest.ini" "tests/" "../" "app_runner/" "tools/")
+
+ ("/home/koren/src/hvx_ci/pending/fix_esxi/rtest/tests/nested/" (22987 51687 7028 476000) "esxi_resources.pyc" "__pycache__/" "scripts/" "./" "test_esxi.py" "0004-rtest-fillers.network-Add-filling-for-access_list-in.patch" "0005-rtest-cfg_utils.utils-Add-append_ip_to_guest_access_.patch" "../" "0002-rtest-xml.app-Add-support-for-access_list-in-ip-forw.patch" "0003-rtest-fillers.network-Add-comment-describing-non-app.patch" "0006-rtest-setup.guest_utils-Add-access_list-module.patch" "0001-rtest-utils.tcpping-Add-MachineSocket-connect-socket.patch" "esxi_resources.py")
+
+ ("/home/koren/src/hvx_ci/pending/fix_esxi/" (22987 51686 983028 391000) ".git/" "rtest/" "qemu/" "build.mk" ".gitmodules" "package/" "libhvx/" "./" "net/" "nettrack/" "hvx/" "linux/" "hvx-core/" "../" "build-template.mk" "storage/" ".gitignore" "Makefile" "capsule/" "3rdparty/" "tools/")
+
+ ("/home/koren/src/hvx_ci/pending/host_whitelist/rtest/rtest/cfg_utils/" (22987 51520 202441 635000) "utils.py" "__init__.py" "./" "utils.pyc" "__init__.pyc" "utils.py~" "../")
+
+ ("/home/koren/src/hvx_ci/pending/host_whitelist/" (22987 51520 126441 368000) ".git/" "rtest/" "qemu/" "build.mk" ".gitmodules" "package/" "libhvx/" "./" "net/" "nettrack/" "hvx/" "linux/" "hvx-core/" "../" "build-template.mk" "storage/" ".gitignore" "Makefile" "capsule/" "3rdparty/" "tools/")
+
+ ("/home/koren/src/hvx_ci/pending/fix_esxi_again/rtest/rtest/utils/" (22986 51800 304862 696000) "s3.py" "math.py" "math.pyc" "pcap.py" "rtest_logger.py" "etc.pyc" "waiter.py" "constants.pyc" "plumbugs.py" "prefetch.py" "plumbugs.pyc" "rand.py" "asyncio.pyc" "sniffer.pyc" "ssh.pyc" "rand.pyc" "s3.pyc" "__init__.py" "./" "waiter.pyc" "tcpping.py" "diff.py" "freeze.pyc" "cache/" "rtest_logger.pyc" "tcpping.pyc" "constants.py" "__init__.pyc" "diff.pyc" "sleep.py" "sleep.pyc" "machines.pyc" "asyncio.py" "../" "pcap.pyc" "saved.pyc" "machines.py" "ssh.py" "saved.py" "func.pyc" "cache.pyc" "func.py" "freeze.py" "etc.py")
+
+ ("/home/koren/src/hvx_ci/pending/fix_esxi_again/rtest/" (22986 52563 899549 124000) "py.test" "0004-rtest-pysphere._get_pysphere_module-If-local-machine.patch" "rtest/" ".cache/" "0003-rtest-nested-nested_machines-can-use-port_forwarding.patch" "0005-rtest-esxi.set_up_pysphere_client-Use-external-addre.patch" "./" "pytest.ini" "0001-rtest-esxi-Moving-enable-nested-call-to-test.patch" "tests/" "../" "0002-rtest-nested-Add-set_nested_ips-fills-ip_cfgs-for-ne.patch" "app_runner/" "tools/" "0006-rtest-esxi.boot_esxi-Add-use_lan_pysphere-flag-if-Fa.patch" "0007-rtest-test_esxi-_launch_esxi_guest-by-default-uses-l.patch")
+
+ ("/home/koren/src/hvx_ci/pending/fix_esxi_again/rtest/tests/nested/" (22987 39128 70844 465000) "esxi_resources.pyc" "__pycache__/" "scripts/" "esxi_resources.py~" "./" "test_esxi.py" "0004-rtest-fillers.network-Add-filling-for-access_list-in.patch" "0005-rtest-cfg_utils.utils-Add-append_ip_to_guest_access_.patch" "../" "0002-rtest-xml.app-Add-support-for-access_list-in-ip-forw.patch" "0003-rtest-fillers.network-Add-comment-describing-non-app.patch" "0006-rtest-setup.guest_utils-Add-access_list-module.patch" "0001-rtest-utils.tcpping-Add-MachineSocket-connect-socket.patch" "esxi_resources.py")
+
+ ("/home/koren/src/hvx_ci/pending/fix_esxi_again/rtest/rtest/defaults/" (22986 28393 590514 757000) "__init__.py" "./" "__init__.pyc" "guests.pyc" "devices.py" "../" "macs.pyc" "macs.py" "guests.py" "buckets.pyc" "disks.pyc" "disks.py" "buckets.py")
+
+ ("/home/koren/src/hvx_ci/pending/fix_esxi_again/rtest/tests/" (22986 28392 790511 942000) "logrotate/" "matrix/" "io_bench/" "rtest/" "qemu/" "__pycache__/" "hw_migration/" "windows/" "conftest.pyc" "conftest.py" "snapshots/" "0001-rtest-tests.nested.test_esxi-Use-access_list-if-publ.patch" "__init__.py" "guest_config/" "./" "net/" "deployment/" "__init__.pyc" "borrows/" "nested/" "../" "storage/" "capsule/" "states/")
+
+ ("/home/koren/src/hvx_ci/pending/fix_esxi_again/rtest/rtest/setup/guest_utils/services/" (22986 23842 262502 579000) "mstsc.py" "gdb.py" "rpyc.pyc" "mstsc.pyc" "vnc.py" "gdb.pyc" "rpyc.py" "utils.py" "vnc.pyc" "pysphere.pyc" "__init__.py" "./" "utils.pyc" "__init__.pyc" "nested.pyc" "pysphere.py" "nested.py" "../" "qemu.py" "paramiko.pyc" "paramiko.py" "sshfs.py")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t

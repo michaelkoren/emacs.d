@@ -1,0 +1,2 @@
+
+(require 'shell-ext)
