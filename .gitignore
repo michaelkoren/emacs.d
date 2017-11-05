@@ -1,0 +1,10 @@
+auto-save-list*
+ac-comphist*
+[#]*
+.[#]*
+%backup%*
+*~
+session*
+*.pyc
+*.elc
+desktop.ini
