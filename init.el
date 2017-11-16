@@ -38,6 +38,11 @@
   (add-to-list 'package-archives '("melpa" . "http://melpa.milkbox.net/packages/") t)
   )
 
+;; for mac:
+(global-unset-key [(end)])
+(global-set-key [(end)] 'move-end-of-line)
+(global-unset-key [(home)])
+(global-set-key [(home)] 'move-beginning-of-line)
 
 
 ;;(require 'server)
