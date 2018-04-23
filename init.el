@@ -46,6 +46,9 @@
 (global-set-key [(s-up)] 'comint-previous-matching-input-from-input)
 (global-set-key [(s-down)] 'comint-next-matching-input-from-input)
 
+;; for shell:
+(global-unset-key [(meta v)])
+(global-set-key [(meta v)] 'yank)
 
 ;;(require 'server)
 ;; (and (>= emacs-major-version 23)
