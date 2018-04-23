@@ -43,6 +43,8 @@
 (global-set-key [(end)] 'move-end-of-line)
 (global-unset-key [(home)])
 (global-set-key [(home)] 'move-beginning-of-line)
+(global-set-key [(s-up)] 'comint-previous-matching-input-from-input)
+(global-set-key [(s-down)] 'comint-next-matching-input-from-input)
 
 
 ;;(require 'server)
