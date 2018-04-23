@@ -115,3 +115,4 @@
  '(show-paren-match ((t (:background "#444464"))))
  '(show-paren-mismatch ((t (:background "#600000"))))
  '(tabbar-default-face ((t (:inherit variable-pitch :background "gray72" :foreground "black" :height 1.0)))))
+(put 'downcase-region 'disabled nil)
